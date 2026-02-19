@@ -17,7 +17,7 @@ git clone https://github.com/AcornPublishing/9791161757407.git
 
 ## 문의
 
-도서나 예제 코드에 관해 궁금한 점이 있으시면 아래로 연락해 주세요.
+도서나 예제 코드에 관해 궁금한 점이 있으시면 아래로 문의해주세요.
 
 - 에이콘출판사 편집팀: [editor@acornpub.co.kr](mailto:editor@acornpub.co.kr)
 - 역자: [securelambda@gmail.com](mailto:securelambda@gmail.com)
