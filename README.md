@@ -6,8 +6,8 @@
 
 아래 두 가지 방법 중 편한 방법을 선택하세요.
 
-- **ZIP 다운로드**: 페이지 상단의 `<> Code` 버튼 → `Download ZIP` 선택
-- **Git 클론**: 터미널에서 다음 명령어 실행
+- **ZIP 다운로드**: 페이지 상단의 `<> Code` 버튼을 클릭한 후 `Download ZIP`을 선택합니다.
+- **Git 클론**: 터미널에서 다음 명령어를 실행합니다.
 
 ```bash
 git clone https://github.com/AcornPublishing/9791161757407.git
