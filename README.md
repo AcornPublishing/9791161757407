@@ -1,10 +1,10 @@
-# 《실전 위협 탐지 엔지니어링》 예제 코드
+# 실전 위협 탐지 엔지니어링
 
-<div align="center">
-<a href="http://www.acornpub.co.kr/book/9791161757407">
-<img src="9791161757407.jpg" width="220" alt="실전 위협 탐지 엔지니어링 표지">
-</a>
-</div>
+<a href="http://www.acornpub.co.kr/book/9791161757407"><img src="9791161757407.jpg" width="220" alt="실전 위협 탐지 엔지니어링 표지" align="right"></a>
+
+[에이콘출판사](http://www.acornpub.co.kr)에서 출간한 《실전 위협 탐지 엔지니어링》의 예제 코드를 다운로드할 수 있는 페이지입니다.
+
+<br clear="both">
 
 ## 다운로드 방법
 
